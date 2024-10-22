@@ -1,5 +1,4 @@
-def analize(texto):
-    d={}
+def ana<S-Del><S    d={}
     d["lineas"] = len(texto.splitlines())
 
     d["palabras"] = len(texto.split())
@@ -24,4 +23,4 @@ def analize(texto):
     return d
 
 resultado = analize("Hola buenas tardes")
-print(resultado)
+17print(resultado)
